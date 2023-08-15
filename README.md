@@ -4,7 +4,7 @@
 
 Welcome to the Django Linktree Demo! This project consists of a Django backend and a React frontend, together creating a simple demonstration of a linktree website. A linktree is a convenient way to share multiple links with your audience through a single URL, often used by individuals and businesses on social media platforms.
 
-**Please note that this project is currently under development. While many features are functional, some features, such as link reordering, are yet to be fully implemented.**
+**Please note that this project is currently under development. While many features are functional, some features, such as link reordering, are yet to be fully implemented. Additionally, there might be occasional non-breaking errors as development progresses, which will be addressed over time.**
 
 ## Features
 
